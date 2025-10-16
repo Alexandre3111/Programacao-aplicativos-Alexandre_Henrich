@@ -185,18 +185,18 @@ public class Atividade08Alexandre_Henrich {
     
         //Questao 09
     
-    public String matric(String matricula, String nome, double not1, double trab){
-        String dados = "alunos\n";
-        dados += "Matricula: "+matricula+"\n";
-        dados += "Nome aluno: "+nome+"\n";
-        dados += "Nota da primeira prova: "+not1+"\n";
-        dados += "Nota do trabalho: "+trab+"\n";
-        return dados;
-    } 
-    public double media(double not1, double trab){
-        double mediana = (not1 + trab)/2;
-        return mediana;
-    }
+//    public String matric(String matricula, String nome, double not1, double trab){
+//        String dados = "alunos\n";
+//        dados += "Matricula: "+matricula+"\n";
+//        dados += "Nome aluno: "+nome+"\n";
+//        dados += "Nota da primeira prova: "+not1+"\n";
+//        dados += "Nota do trabalho: "+trab+"\n";
+//        return dados;
+//    } 
+//    public double media(double not1, double trab){
+//       double mediana = (not1 + trab)/2;
+//        return mediana;
+//    }
     
     
     // Questao 10
@@ -527,6 +527,7 @@ public class Atividade08Alexandre_Henrich {
         
     }
 }
+
 
 
 
